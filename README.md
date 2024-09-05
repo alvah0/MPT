@@ -2,17 +2,26 @@
 Implementing modern portfolio theory that maximizes expected return with a given level of risk. 
 
 1. Data collection
+Equity Indexes:
+  Nasdaq 100,
+  Russell 2000
 
-2. Calculating returns
+Fixed Income:
+  High Yield Corporate Bond,
+  Treasury Bond
 
-3. Expected returns
+2. Feature engineering
 
-4. Coveriance matrix
+3. ML model designing 
 
-5. Optimization
+4. Model training
 
-6. Software Implementation
+5. Portfolio optimization
+
+6. Implementation
 
 7. Backtesting
 
-8. Visualization
+8. Dynamic adjusting
+
+9. Visualization and presentation
