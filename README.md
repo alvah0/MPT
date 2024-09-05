@@ -2,6 +2,7 @@
 Implementing modern portfolio theory that maximizes expected return with a given level of risk. 
 
 1. Data collection
+
 Equity Indexes:
   Nasdaq 100,
   Russell 2000
